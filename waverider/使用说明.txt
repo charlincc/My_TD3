@@ -1,0 +1,1 @@
+输入参数在input.dat中，末端截面激波曲线和捕获前缘线逆来流方向投影曲线在file_endshk.dat和file_fct.dat文件中，需要在input.dat文件中指定文件名。
